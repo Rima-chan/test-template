@@ -2,6 +2,12 @@
 - [ ] Code lisible et maintenable
 - [ ] Pas de `TODO` à gérer maintenant
 
+## Bug
+- [ ] Unit test
+- [ ] Typecheck
+- [ ] Autre
+- [ ] ∅ 
+
 ## Test
 - [ ] Test unitaires
 
